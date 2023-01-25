@@ -5,7 +5,6 @@ A movies app with data fetched from the (https://developers.themoviedb.org/) web
 ## Packages Used
 
 *  get: ^4.6.5
-*  carousel_slider: ^4.2.1
 *  dio: ^4.0.6
 *  flutter_dotenv: ^5.0.2
 *  flutter_bloc: ^8.1.1
