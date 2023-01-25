@@ -22,3 +22,5 @@ A movies app with data fetched from the (https://developers.themoviedb.org/) web
 * For the "Animation Film" section, I created a three bloc files: movie_bloc, movie_event, and movie_state. 
 
 ## Screenshots
+
+![Untitled design](https://user-images.githubusercontent.com/72159017/214525025-4e67c397-263e-4172-95ff-838361ce71d8.jpg)
