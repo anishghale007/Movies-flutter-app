@@ -27,21 +27,21 @@ class BottomNavigation extends StatelessWidget {
             ),
           ),
           BottomNavigationBarItem(
-            label: 'Home',
+            label: 'Ticket',
             icon: Icon(
               Icons.airplane_ticket_rounded,
               size: 30,
             ),
           ),
           BottomNavigationBarItem(
-            label: 'Home',
+            label: 'Wallet',
             icon: Icon(
               Icons.wallet_rounded,
               size: 30,
             ),
           ),
           BottomNavigationBarItem(
-            label: 'Home',
+            label: 'Account',
             icon: Icon(
               Icons.account_circle,
               size: 30,
